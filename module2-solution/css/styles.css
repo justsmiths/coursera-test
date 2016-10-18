@@ -21,17 +21,10 @@ div {
   position: relative;
 }
 
-section {
-
-  /*  padding: 30px 10px 10px 10px;  */
-
-
-}
 #chicken {
 
   width: 300px;
   height: 150px;
-  postion: relative;
   float: left;
   margin: 10px;
   padding: 50px 10px 10px 10px;
@@ -52,16 +45,15 @@ section {
   border: 1px solid black;
 
 }
+
 #mush {
 
   width: 300px;
   height: 150px;
   float: left;
-  padding: 10px;
   margin: 10px;
   padding: 50px 10px 10px 10px;
   border: 1px solid black;
-
 
 }
 
@@ -83,7 +75,6 @@ section {
   width: 300px;
   height: 150px;
   float: left;
-  padding: 10px;
   margin: 10px;
   padding: 50px 10px 10px 10px;
   border: 1px solid black;
@@ -100,7 +91,6 @@ section {
   float: right;
   top: 0;
   right: 0;
-  
   border: 1px solid black;
 
 }
@@ -112,9 +102,11 @@ section {
   #chicken {
     width: 31%;
   }
+
   #mush {
     width: 31%;
   }
+
   #beef {
     width: 31%;
   }
@@ -128,9 +120,11 @@ section {
   #chicken {
     width: 44%;
   }
+
   #mush {
     width: 44%;
   }
+
   #beef {
     width: 90%;
       }
@@ -143,9 +137,11 @@ section {
   #chicken {
     width: 90%;
   }
+
   #mush {
     width: 90%;
   }
+
   #beef {
     width: 90%;
   }
